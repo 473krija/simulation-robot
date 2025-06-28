@@ -33,7 +33,7 @@ robot-movement-simulator/
 
 ## ▶️ How to Run
 
-### ✅ Option 1: Google Colab (Recommended for Interview)
+### ✅ Using Google Colab 
 
 1. Open Google Colab: [https://colab.research.google.com](https://colab.research.google.com)
 2. Upload all Python files.
@@ -44,15 +44,7 @@ robot-movement-simulator/
    - `main.py` (contains the `main()` function that launches the program)
 4. You’ll get a CLI-style input interface in the Colab output.
 
-### ✅ Option 2: VS Code / Local
 
-1. Clone the repo or download the folder.
-2. Open terminal in project directory.
-3. Run:
-
-```bash
-python main.py
-```
 
 You’ll get interactive prompts like:
 
@@ -100,8 +92,7 @@ Enter command:
 
 ## 📫 Contact
 
-Developed by: *[Your Name]*  
-Email: *your.email@example.com*  
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+Developed by: *Krija Subramanian*  
+
 
 ---
