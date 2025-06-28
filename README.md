@@ -23,7 +23,7 @@ A command-line robot simulation program where multiple robots can be created, as
 ```
 robot-movement-simulator/
 ├── terrain.py             # Terrain/grid logic
-├── robot.py               # Robot movement and tracking logic
+├──  class robot.py               # Robot movement and tracking logic
 ├── robot_manager.py       # Manages robot creation and interaction
 ├── main.py                # CLI-based main execution program
 └── README.md              # Project documentation (this file)
@@ -39,7 +39,7 @@ robot-movement-simulator/
 2. Upload all Python files.
 3. Run cells in this order:
    - `terrain.py`
-   - `robot.py`
+   - `class robot.py`
    - `robot_manager.py`
    - `main.py` (contains the `main()` function that launches the program)
 4. You’ll get a CLI-style input interface in the Colab output.
